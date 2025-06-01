@@ -6,7 +6,7 @@ export default function Footer() {
           &copy; {new Date().getFullYear()} Subsplit. All rights reserved.
         </p>
         <p className="font-body text-xs mt-2">
-          Built with Next.js and Tailwind CSS.
+          
         </p>
       </div>
     </footer>
